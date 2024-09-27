@@ -1,7 +1,6 @@
 - 👋 Hi, I’m joxqwe
 - 👀 I’m interested in coding and Dota 2
 - 🌱 I’m currently learning MERN Stack
-- ⚡ Fun fact: I'm Immortal in Dota 2
 - 📈 Can't Cheat the Grind
 
 <!---
