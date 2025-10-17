@@ -6,7 +6,7 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 ---
 
 ### 🧠 About Me
-- 💻 Passionate about **full-stack web development**
+- 💻 Passionate about **Web development**
 - 🎯 Focused on building real-world, impactful projects
 - 🌱 Continuously learning and improving my craft
 - 🤝 Open to collaborations and innovative projects
