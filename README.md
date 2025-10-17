@@ -66,6 +66,9 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
       <td align="center" width="90">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a><br>Express.js
       </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://socket.io/images/logo.svg" width="40"/></a><br>Socket.IO
+      </td> 
     </tr>
   </table>
 </p>
@@ -102,6 +105,9 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
       </td>
       <td align="center" width="90">
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></a><br>Figma
+      </td>
+         <td align="center" width="90">
+        <a href="#"><img class="tech-icon" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" width="40" alt="WebRTC" /></a><br>WebRTC
       </td>
     </tr>
   </table>
@@ -153,19 +159,18 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 
 <p align="center">
   <a href="mailto:vituallabenjoseph@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vituallabenjoseph%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-vituallabenjoseph%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ben-joseph-vitualla-a6b345330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Joseph%20Vitualla-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Joseph%20Vitualla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://joxqweportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.facebook.com/orangefass" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-orangefass-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-orangefass-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
 
 ---
 
