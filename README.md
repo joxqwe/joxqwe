@@ -125,11 +125,16 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 - Real-time chat and matching features
 - Integrates **Socket.IO**, **JWT Authentication**, and **Express API**
 
-#### 🌍 <a href="https://cebuyanihan.vercel.app/" target="_blank">CebuYanihan</a>
+#### 🌍 CebuYanihan
 *A community-driven platform connecting volunteers, organizations, and people in need within Cebu.*
 
 - Developed to facilitate real-time updates and volunteer matching  
 - Combines **relief mapping**, **post management**, and **community engagement**
+<p align="left">
+  <a href="https://cebuyanihan.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_CebuYanihan-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 ### 📊 GitHub Stats
