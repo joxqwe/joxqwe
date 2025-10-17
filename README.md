@@ -48,8 +48,8 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenJosephVitualla&show_icons=true&theme=react&hide_border=true" alt="Ben's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenJosephVitualla&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joxqwe&show_icons=true&theme=react&hide_border=true" alt="Ben's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 ### 📫 Connect with Me
 - 📧 **vituallabenjoseph@gmail.com**
 - 💼 [LinkedIn](#) *(Add your link here)*
-- 🌐 [Portfolio](#) *(Add if you have one)*
+- 🌐 [Portfolio](#) *(https://joxqweportfolio.vercel.app/)*
 
 ---
 
