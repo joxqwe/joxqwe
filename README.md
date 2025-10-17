@@ -112,7 +112,7 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 
 ### 🚀 Featured Projects
 
-#### 💞 [GentleMatch](#)
+#### 💞 GentleMatch
 *A responsive web and mobile dating app for genuine connections and relationships.*
 
 - Built with **React**, **Node.js**, and **MongoDB**
@@ -125,31 +125,47 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 - Developed to facilitate real-time updates and volunteer matching  
 - Combines **relief mapping**, **post management**, and **community engagement**
 
-<p align="left">
-  <a href="https://cebuyanihan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_CebuYanihan-9C90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+---
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/joxqwe">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=joxqwe&theme=react&hide_border=true" 
+      alt="GitHub Streak" 
+      height="165"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/y1p7CkLMEyUAAAAd/kcorp-ego-blue-lock.gif" width="400" alt="KCorp Ego GIF" />
+  <a href="https://github.com/joxqwe">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true" 
+      alt="Top Languages" 
+      height="165"
+    />
+  </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joxqwe&show_icons=true&theme=react&hide_border=true" alt="Ben's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
-
 ### 📫 Connect with Me
-- 📧 **vituallabenjoseph@gmail.com**
-- 💼 [LinkedIn](#) *(Add your link here)*
-- 🌐 [Portfolio](https://joxqweportfolio.vercel.app/)
+
+<p align="center">
+  <a href="mailto:vituallabenjoseph@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vituallabenjoseph%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ben-joseph-vitualla-a6b345330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Joseph%20Vitualla-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://joxqweportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.facebook.com/orangefass" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-orangefass-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
 
 ---
 
-> _“Code with purpose, design with empathy, and build with impact.”_
