@@ -1,4 +1,4 @@
-#  Hi there 👋 I'm **Ben Joseph C. Vitualla**
+#  Hi there 👋 I'm **Ben Joseph*
 
 **Dedicated Web Developer** with expertise in creating responsive and user-friendly web applications.  
 I specialize in integrating intuitive front-end interfaces with powerful back-end systems — ensuring smooth, modern, and high-performance user experiences. 🚀
