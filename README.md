@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm **Ben Joseph C. Vitualla**
+#  Hi there 👋 I'm **Ben Joseph C. Vitualla**
 
-🚀 **Dedicated Web Developer** with expertise in creating responsive and user-friendly web applications.  
-I specialize in integrating intuitive front-end interfaces with powerful back-end systems — ensuring smooth, modern, and high-performance user experiences.
+**Dedicated Web Developer** with expertise in creating responsive and user-friendly web applications.  
+I specialize in integrating intuitive front-end interfaces with powerful back-end systems — ensuring smooth, modern, and high-performance user experiences. 🚀
 
 ---
 
@@ -19,44 +19,96 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 </table>
 
 ---
-
 ### 🛠️ Technical Skills
 
 #### 💡 Programming
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /> C&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> Python&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> JavaScript&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> TypeScript&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" /> HTML&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" /> CSS
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a><br>C
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a><br>Python
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a><br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a><br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a><br>HTML
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a><br>CSS
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### ⚙️ Frameworks & Runtime
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> React&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" /> React Native&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> Next.js&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> Node.js&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" /> Express.js
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a><br>React
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a><br>React Native
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></a><br>Next.js
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a><br>Node.js
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a><br>Express.js
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### 🗄️ Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> PostgreSQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> MySQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> MongoDB&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firestore" /> Firestore
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a><br>PostgreSQL
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a><br>MySQL
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a><br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></a><br>Firestore
+      </td>
+    </tr>
+  </table>
 </p>
 
 #### 🧰 Tools & Design
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> Git&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /> GitHub&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> Figma
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a><br>Git
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a><br>GitHub
+      </td>
+      <td align="center" width="90">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></a><br>Figma
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
+
 
 ### 🚀 Featured Projects
 
