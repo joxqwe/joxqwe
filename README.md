@@ -132,29 +132,12 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/joxqwe">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=joxqwe&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"
-      height="165"
-    />
-  </a>
-  <a href="https://github.com/joxqwe">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=joxqwe&theme=react&hide_border=true"
-      height="165"
-    />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joxqwe&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <a href="https://github.com/joxqwe">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true&langs_count=8"
-      height="165"
-    />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joxqwe&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true&langs_count=8)
+
 
 
 ---
