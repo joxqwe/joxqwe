@@ -130,17 +130,6 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
   </a>
 </p>
 
----
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joxqwe&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joxqwe&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joxqwe&layout=compact&theme=react&hide_border=true&langs_count=8)
-
-
-
----
 ### 📫 Connect with Me
 
 <p align="center">
