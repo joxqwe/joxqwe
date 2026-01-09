@@ -4,7 +4,7 @@
 I specialize in integrating intuitive front-end interfaces with powerful back-end systems — ensuring smooth, modern, and high-performance user experiences. 🚀
 
 ---
-
+   <tr>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media1.tenor.com/m/9xLualDcRZIAAAAC/kcorp-ego-blue-lock.gif" width="300" alt="KCorp GIF" style="max-width: 100%; height: auto; border-radius: 12px;" />
