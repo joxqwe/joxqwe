@@ -5,12 +5,6 @@ I specialize in integrating intuitive front-end interfaces with powerful back-en
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate about **Web development**
-- 🎯 Focused on building real-world, impactful projects
-- 🌱 Continuously learning and improving my craft
-- 🤝 Open to collaborations and innovative projects
-
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media1.tenor.com/m/9xLualDcRZIAAAAC/kcorp-ego-blue-lock.gif" width="300" alt="KCorp GIF" style="max-width: 100%; height: auto; border-radius: 12px;" />
